@@ -1,6 +1,6 @@
 { 
     "prefix": "!",
-    "token": "MTI2MzAyNjI4MDMzMzU3NDE0Ng.GoQSth.6_G_FQGvgR2KTPmnBEh4CjvllQsIquaL3T7XdU",
+    "token": "MTI2MzAyNjI4MDMzMzU3NDE0Ng.Gj68a2.nGqAe7gnpdiIc-DfjTFyt0sCj2VkQ05AexZsy4",
     "emoji": {
       "play": "▶️",
       "stop": "⏹️",
@@ -9,5 +9,6 @@
       "repeat": "🔁",
       "error": "❌"
     },
+    
     "openai_key": "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"
 }
